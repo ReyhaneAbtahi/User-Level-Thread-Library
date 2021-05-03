@@ -13,11 +13,18 @@ This project was done as a team by me and [@Farzaneh Koohestani](https://github.
 # Usage
 * make 
 * ./green_test to execute green_test.c code
-# Support:
+## Support
 
 **Contact me @:**
 
-e-mail: r.abtahi1378@gmail.com
+e-mail:
 
-telegram id: @Reyhan_abt
+* r.abtahi1378@gmail.com
 
+Telegram id:
+
+* [@ReyhaneAbthai](https://t.me/ReyhaneAbtahi)
+
+## License
+[MIT](https://github.com/fark00/Serial-Transmitter-Receiver/blob/master/LICENSE)
+&#0169; 
